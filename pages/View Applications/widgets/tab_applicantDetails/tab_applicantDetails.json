@@ -1,0 +1,446 @@
+{
+    "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+    "widgetName": "tab_applicantDetails",
+    "borderColor": "#E0DEDE",
+    "isCanvas": true,
+    "dynamicPropertyPathList": [
+        {"key": "tabsObj.tab55w2dipd35.isVisible"},
+        {"key": "tabsObj.tab2.isVisible"}
+    ],
+    "displayName": "Tabs",
+    "iconSVG": "/static/media/icon.74a6d653c8201e66f1cd367a3fba2657.svg",
+    "topRow": 36.00000000000001,
+    "bottomRow": 149.67656250000002,
+    "parentRowSpace": 10,
+    "type": "TABS_WIDGET",
+    "hideCard": false,
+    "shouldScrollContents": true,
+    "animateLoading": true,
+    "parentColumnSpace": 23.578125,
+    "dynamicTriggerPathList": [{"key": "onTabSelected"}],
+    "leftColumn": 32,
+    "dynamicBindingPathList": [
+        {"key": "accentColor"},
+        {"key": "borderRadius"},
+        {"key": "boxShadow"},
+        {"key": "tabsObj.tab55w2dipd35.isVisible"},
+        {"key": "tabsObj.tab2.isVisible"}
+    ],
+    "children": [
+        {
+            "tabId": "tab1",
+            "widgetName": "Canvas1",
+            "displayName": "Canvas",
+            "bottomRow": 1096.7656250000002,
+            "topRow": 0,
+            "parentRowSpace": 1,
+            "type": "CANVAS_WIDGET",
+            "canExtend": true,
+            "hideCard": true,
+            "shouldScrollContents": false,
+            "minHeight": 1070,
+            "useAutoLayout": true,
+            "parentColumnSpace": 1,
+            "dynamicTriggerPathList": [],
+            "leftColumn": 0,
+            "dynamicBindingPathList": [],
+            "positioning": "vertical",
+            "isDisabled": false,
+            "key": "fysn7ybzmc",
+            "isDeprecated": false,
+            "tabName": "Borrower Details",
+            "rightColumn": 565.875,
+            "detachFromLayout": true,
+            "widgetId": "nyt2r0gtg5",
+            "minWidth": 450,
+            "isVisible": true,
+            "version": 1,
+            "parentId": "6vb23lwk9d",
+            "renderMode": "CANVAS",
+            "isLoading": false,
+            "responsiveBehavior": "fill",
+            "flexLayers": [
+                {"children": [
+                    {
+                        "id": "67uy5pgdsc",
+                        "align": "start"
+                    },
+                    {
+                        "id": "g8d4jzpev9",
+                        "align": "start"
+                    },
+                    {
+                        "id": "687hzzf86i",
+                        "align": "end"
+                    }
+                ]},
+                {"children": [
+                    {
+                        "id": "m9vtvw5x3l",
+                        "align": "end"
+                    },
+                    {
+                        "id": "sk452tgr3j",
+                        "align": "end"
+                    },
+                    {
+                        "id": "ou8nepmwkv",
+                        "align": "end"
+                    },
+                    {
+                        "id": "7hoatgmfgj",
+                        "align": "end"
+                    }
+                ]},
+                {"children": [
+                    {
+                        "id": "e172v8b7if",
+                        "align": "end"
+                    },
+                    {
+                        "id": "lt3znzux3t",
+                        "align": "end"
+                    },
+                    {
+                        "id": "m2mg3nw1tr",
+                        "align": "end"
+                    },
+                    {
+                        "id": "nn0qy9ex7w",
+                        "align": "end"
+                    }
+                ]},
+                {"children": [
+                    {
+                        "id": "3j433uvgvj",
+                        "align": "center"
+                    },
+                    {
+                        "id": "gs074g4qn8",
+                        "align": "center"
+                    }
+                ]},
+                {"children": [{
+                    "id": "mymsunsxfv",
+                    "align": "center"
+                }]},
+                {"children": [
+                    {
+                        "id": "zjic4ei5gs",
+                        "align": "start"
+                    },
+                    {
+                        "id": "1dqv89q87j",
+                        "align": "start"
+                    },
+                    {
+                        "id": "mf1wpap15b",
+                        "align": "start"
+                    }
+                ]},
+                {"children": [
+                    {
+                        "id": "bbaljla2l7",
+                        "align": "center"
+                    },
+                    {
+                        "id": "lvvecvtd3v",
+                        "align": "center"
+                    },
+                    {
+                        "id": "p0eitzzzej",
+                        "align": "center"
+                    }
+                ]},
+                {"children": [
+                    {
+                        "id": "0d4k0162tw",
+                        "align": "start"
+                    },
+                    {
+                        "id": "lr3htueprg",
+                        "align": "start"
+                    }
+                ]},
+                {"children": [
+                    {
+                        "id": "c8t4xfyl7c",
+                        "align": "start"
+                    },
+                    {
+                        "id": "87750jetd7",
+                        "align": "start"
+                    }
+                ]},
+                {"children": [
+                    {
+                        "id": "ua7bcqth4m",
+                        "align": "start"
+                    },
+                    {
+                        "id": "w2cvb0fy7q",
+                        "align": "start"
+                    }
+                ]},
+                {"children": [
+                    {
+                        "id": "0lsliu6p3n",
+                        "align": "start"
+                    },
+                    {
+                        "id": "viuizc2jys",
+                        "align": "start"
+                    }
+                ]},
+                {"children": [
+                    {
+                        "id": "hencplhx4p",
+                        "align": "start"
+                    },
+                    {
+                        "id": "q2i0ub7egb",
+                        "align": "start"
+                    }
+                ]},
+                {"children": [{
+                    "id": "4kz9tvu4yr",
+                    "align": "center"
+                }]},
+                {"children": [
+                    {
+                        "id": "mlvqc1l480",
+                        "align": "center"
+                    },
+                    {
+                        "id": "6iskvtbpw2",
+                        "align": "center"
+                    },
+                    {
+                        "id": "d602jopxvp",
+                        "align": "center"
+                    },
+                    {
+                        "id": "ef8zs038ml",
+                        "align": "center"
+                    }
+                ]},
+                {"children": [
+                    {
+                        "id": "7gy3sn0czk",
+                        "align": "center"
+                    },
+                    {
+                        "id": "kq4gyq9cp8",
+                        "align": "center"
+                    },
+                    {
+                        "id": "7vdl1w40qj",
+                        "align": "center"
+                    }
+                ]}
+            ]
+        },
+        {
+            "tabId": "tab2",
+            "widgetName": "Canvas2",
+            "displayName": "Canvas",
+            "bottomRow": 1096.7656250000002,
+            "topRow": 0,
+            "parentRowSpace": 1,
+            "type": "CANVAS_WIDGET",
+            "canExtend": true,
+            "hideCard": true,
+            "shouldScrollContents": false,
+            "minHeight": 790,
+            "useAutoLayout": true,
+            "parentColumnSpace": 1,
+            "dynamicTriggerPathList": [],
+            "leftColumn": 0,
+            "dynamicBindingPathList": [],
+            "positioning": "vertical",
+            "isDisabled": false,
+            "key": "fysn7ybzmc",
+            "isDeprecated": false,
+            "tabName": "Payment Schedule",
+            "rightColumn": 565.875,
+            "detachFromLayout": true,
+            "widgetId": "7yeh25kj7w",
+            "minWidth": 450,
+            "isVisible": true,
+            "version": 1,
+            "parentId": "6vb23lwk9d",
+            "renderMode": "CANVAS",
+            "isLoading": false,
+            "responsiveBehavior": "fill",
+            "flexLayers": [
+                {"children": [{
+                    "id": "5sknzm7wqz",
+                    "align": "start"
+                }]},
+                {"children": [
+                    {
+                        "id": "1o39bn58ky",
+                        "align": "start"
+                    },
+                    {
+                        "id": "au9w490tjb",
+                        "align": "start"
+                    }
+                ]},
+                {"children": [{
+                    "id": "7zqclz4kpp",
+                    "align": "center"
+                }]}
+            ]
+        },
+        {
+            "tabId": "tabd4qef389mm",
+            "widgetName": "Canvas5",
+            "displayName": "Canvas",
+            "topRow": 1,
+            "bottomRow": 1096.7656250000002,
+            "parentRowSpace": 1,
+            "type": "CANVAS_WIDGET",
+            "canExtend": false,
+            "hideCard": true,
+            "minHeight": 640,
+            "useAutoLayout": true,
+            "parentColumnSpace": 1,
+            "dynamicTriggerPathList": [],
+            "leftColumn": 0,
+            "dynamicBindingPathList": [],
+            "positioning": "vertical",
+            "key": "76v0kq9vho",
+            "isDeprecated": false,
+            "tabName": "Documents",
+            "rightColumn": 872.390625,
+            "detachFromLayout": true,
+            "widgetId": "af86ehajjy",
+            "containerStyle": "none",
+            "minWidth": 450,
+            "isVisible": true,
+            "version": 1,
+            "parentId": "6vb23lwk9d",
+            "renderMode": "CANVAS",
+            "isLoading": false,
+            "responsiveBehavior": "fill",
+            "flexLayers": [
+                {"children": [{
+                    "id": "txvmt94nuo",
+                    "align": "center"
+                }]},
+                {"children": [
+                    {
+                        "id": "guygn4cat3",
+                        "align": "center"
+                    },
+                    {
+                        "id": "51gdm3piri",
+                        "align": "center"
+                    },
+                    {
+                        "id": "o8vtgssquc",
+                        "align": "center"
+                    }
+                ]}
+            ]
+        },
+        {
+            "tabId": "tab55w2dipd35",
+            "widgetName": "Canvas9",
+            "displayName": "Canvas",
+            "topRow": 1,
+            "bottomRow": 1096.7656250000002,
+            "parentRowSpace": 1,
+            "type": "CANVAS_WIDGET",
+            "canExtend": false,
+            "hideCard": true,
+            "minHeight": 390,
+            "useAutoLayout": true,
+            "parentColumnSpace": 1,
+            "dynamicTriggerPathList": [],
+            "leftColumn": 0,
+            "dynamicBindingPathList": [],
+            "positioning": "vertical",
+            "key": "wwz322w4ho",
+            "isDeprecated": false,
+            "tabName": "Bank Details",
+            "rightColumn": 872.390625,
+            "detachFromLayout": true,
+            "widgetId": "08qntok3nx",
+            "containerStyle": "none",
+            "minWidth": 450,
+            "isVisible": true,
+            "version": 1,
+            "parentId": "6vb23lwk9d",
+            "renderMode": "CANVAS",
+            "isLoading": false,
+            "responsiveBehavior": "fill",
+            "flexLayers": [{"children": [{
+                "id": "kj7kz4l3lz",
+                "align": "center"
+            }]}]
+        }
+    ],
+    "borderWidth": 1,
+    "key": "s932iwqh57",
+    "flexVerticalAlignment": "end",
+    "backgroundColor": "#ffffff",
+    "isDeprecated": false,
+    "rightColumn": 64,
+    "dynamicHeight": "AUTO_HEIGHT",
+    "widgetId": "6vb23lwk9d",
+    "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+    "defaultTab": "Borrower Details",
+    "onTabSelected": "",
+    "shouldShowTabs": true,
+    "minWidth": 450,
+    "tabsObj": {
+        "tabd4qef389mm": {
+            "widgetId": "af86ehajjy",
+            "isDuplicateLabel": false,
+            "index": 1,
+            "id": "tabd4qef389mm",
+            "label": "Documents",
+            "isVisible": true
+        },
+        "tab55w2dipd35": {
+            "widgetId": "08qntok3nx",
+            "isDuplicateLabel": false,
+            "index": 2,
+            "id": "tab55w2dipd35",
+            "label": "Bank Details",
+            "isVisible": "{{\ntbl_applications.selectedRow.Status !== 'Waiting for Approval' \n}}"
+        },
+        "tab1": {
+            "widgetId": "nyt2r0gtg5",
+            "positioning": "vertical",
+            "isDuplicateLabel": false,
+            "index": 0,
+            "label": "Borrower Details",
+            "id": "tab1",
+            "isVisible": true
+        },
+        "tab2": {
+            "widgetId": "7yeh25kj7w",
+            "positioning": "vertical",
+            "isDuplicateLabel": false,
+            "index": 3,
+            "label": "Payment Schedule",
+            "id": "tab2",
+            "isVisible": "{{\ntbl_applications.selectedRow.Status === 'Disbursed' ||\ntbl_applications.selectedRow.Status === 'Active' ||\ntbl_applications.selectedRow.Status === 'Late' ||\ntbl_applications.selectedRow.Status === 'At Risk' ||\ntbl_applications.selectedRow.Status === 'Closed'\n}}"
+        }
+    },
+    "isVisible": true,
+    "version": 3,
+    "parentId": "0",
+    "renderMode": "CANVAS",
+    "isLoading": false,
+    "responsiveBehavior": "fill",
+    "originalTopRow": 50,
+    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "maxDynamicHeight": 9000,
+    "originalBottomRow": 140,
+    "alignment": "start",
+    "minDynamicHeight": 15
+}
