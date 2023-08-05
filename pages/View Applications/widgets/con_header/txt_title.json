@@ -26,7 +26,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "StaLoan n App",
+    "text": "StaLoan App",
     "key": "rsu74rjjep",
     "flexVerticalAlignment": "end",
     "isDeprecated": false,
